@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=FTWNationalProductions;FTWNationalStudios;FTWNationalTechnology;%22Viva+seu+mundo%2C+Jogando+no+Nosso.%22;%22Fa%C3%A7a+seu+mundo%2C+vivendo+no+Nosso%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=FTWNationalProductions;FTWNationalStudios;FTWNationalTechnology;%22Viva+seu+mundo%2C+Jogando+no+Nosso.%22;%22Fa%C3%A7a+seu+mundo%2C+vivendo+no+Nosso.%22)](https://git.io/typing-svg)
 ---
 
 ## 🖥️ Plataformas e Ferramentas 
