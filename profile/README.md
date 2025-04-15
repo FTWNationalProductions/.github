@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+my+name+is+Gabriel!++;I'm+a+Fullstack+Developer!++;I'm+22+years+old!;Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel!;Sou+um+Desenvolvedor+Fullstack!;Atualmente+tenho+22+anos+de+idade!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=FTWNationalProductions;FTWNationalStudios;FTWNationalTechnology;%22Viva+seu+mundo%2C+Jogando+no+Nosso.%22;%22Fa%C3%A7a+seu+mundo%2C+vivendo+no+Nosso%22)](https://git.io/typing-svg)
 ---
 
 ## 🖥️ Plataformas e Ferramentas 
@@ -12,22 +12,8 @@
 
 ---
 
-## 📈 Estatísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmendesoficial&layout=compact&theme=transparent)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmendesoficial&show_icons=true&theme=transparent)  
----
-
 ## 🌱 Projetos em destaque
-- 🔧 [EcoScan](link) – IA identificadora de lixo, com interação mobile para usuários reportarem resíduos na sua região.  
-- 📦 [DroneRescue](link) – IA para identificação de pessoas em áreas de lama, utilizada especialmente no resgate em situações extremas.
-
+- 🔧 [EcoScan](link) – IA identificadora de lixo, com interação mobile para usuários reportarem resíduos na sua região.
+  
 ---
 
-## ✨ Um pouco mais sobre mim
-
-🎮 Gosto de jogos, filmes e animes.  
-📡 Atualmente estudando: Engenharia de Software na Escola DNC  
-🎓 Formação: Análise e Desenvolvimento de Software pela FIAP  
-🌍 Inglês nível A1  
-🛠️ Criador do servidor de FiveM chamado **FTWNationalCity** e do estúdio **FTWNationalProductions**  
-💡 Sempre tentando aprender algo novo e contribuir com a comunidade, seja ela qual for.
